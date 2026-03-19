@@ -1,4 +1,4 @@
-# 🔮 PRISM - RAG 챗봇 연결 가이드
+# PRISM - RAG 챗봇 연결 가이드
 
 > **PRISM** (Public Risk Intelligence & Smart Management)  
 > 공공 감사 데이터를 다차원으로 분석하는 AI 감사 분석 시스템
